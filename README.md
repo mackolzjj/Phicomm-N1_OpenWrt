@@ -13,7 +13,7 @@
 
 </div>
 
-> 旁路由定位：拨号与 WiFi 交给主路由，本固件**不含 PPPoE / WiFi**；**不内置 honk / doona**，只把内核的 eBPF / BTF 底座准备好。
+> 旁路由定位：拨号与 WiFi 交给主路由，本固件**不含 PPPoE / WiFi**；**不内置 honk / doona**，只把内核的 eBPF / BTF 。
 
 ## ✨ 特性
 
